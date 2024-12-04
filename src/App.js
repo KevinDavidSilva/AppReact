@@ -15,13 +15,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://i.pinimg.com/originals/2e/40/e6/2e40e6f588cd421e03fedb61135881ed.gif" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://i.redd.it/grlw0gf12gbd1.gif"
           target="_blank"
           rel="noopener noreferrer"
         >
